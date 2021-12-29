@@ -1,0 +1,14 @@
+Image Captioning Using Inception V3 Transfer Learning Model
+https://ieeexplore.ieee.org/document/9489111
+
+NATURAL LANGUAGE PROCESSING and Human–Computer Interaction
+Computer Standards & Interfaces, 2013, 35(5), pp.415-416.
+
+A method of measuring the semantic gap in image retrieval: Using the information theory
+2011 International Conference on Image Analysis and Signal Processing, 2011, pp. 287-291, doi: 10.1109/IASP.2011.6109048.
+
+Analysing and evaluating the task of automatic tweet generation: Knowledge to business
+https://rua.ua.es/dspace/bitstream/10045/60048/2/2016_Lloret_Palomar_CompInd_preprint.pdf
+
+A Systematic Literature Review on Image Captioning
+https://www.mdpi.com/2076-3417/9/10/2024/pdf
